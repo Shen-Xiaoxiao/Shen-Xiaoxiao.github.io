@@ -4,7 +4,7 @@
 ![Me.jpg](https://s2.loli.net/2022/03/01/acsEhZnplbV8JAD.jpg) 
 
 I received B.Eng.degrees in information security from College of Information Management, Nanjing Agricultural University, Nanjing, China, in 2019. 
-I received PhD.Eng in Mechanical Engineering at Shanghai Jiao Tong University, Shanghai, China, and Politecnico di Milano, Milan, Italy in 2025. (Supervisor Prof.[Shichang Du](https://me.sjtu.edu.cn/teacher_directory1/dushichang.html), Supervisor Prof.[Andrea Matta](https://www.mecc.polimi.it/en/research/faculty/prof-andrea-matta))
+I received PhD.Eng in Mechanical Engineering at Shanghai Jiao Tong University, Shanghai, China, and Politecnico di Milano, Milan, Italy, in 2025. (Supervisor Prof.[Shichang Du](https://me.sjtu.edu.cn/teacher_directory1/dushichang.html), Supervisor Prof.[Andrea Matta](https://www.mecc.polimi.it/en/research/faculty/prof-andrea-matta))
 
 My research interests include
 + Analysis, modelling, and decision-making optimization for the operations management problems in manufacturing systems and service systems
