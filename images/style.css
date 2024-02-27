@@ -40,7 +40,7 @@ h1, h2, h3 {
 h1 {
 	font-size: 150%;	
 	font-weight: normal;
-	color: #006699;
+	color: #708090;
 }
 h2 {
 	font-size: 100%;
@@ -49,7 +49,7 @@ h2 {
 }
 h3 {
 	font-size: 120%;
-	color: #666666; 
+	color: #708090; 
 }
 
 /* images 
@@ -136,7 +136,7 @@ td.first,th.first {
 	border-left: 0px;
 }
 tr.row-a {
-	background: #F8F8F8;
+	background: none;
 }
 tr.row-b {
 	background: none;
@@ -207,7 +207,7 @@ input.button {
 ********************************************/ 
 #wrap {
 	width: 820px;
-	background: #CCC url(content.jpg) repeat-y center top;
+	background: none;
 	margin: 0 auto;
 	text-align: left;
 }
