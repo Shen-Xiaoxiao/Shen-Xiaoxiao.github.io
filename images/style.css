@@ -387,7 +387,7 @@ input.button {
 
 /* Footer */	
 #footer {
-	color: #C6DDEE;
+	color: #4682B4;
 	background: #CCC url(footer.jpg) no-repeat center top;
 	clear: both;
 	width: 820px;
@@ -396,7 +396,7 @@ input.button {
 	font-size: 92%;	
 }
 #footer a { 
-	color: #FFF;
+	color: #4682B4;
 	text-decoration: none; 
 }
 
