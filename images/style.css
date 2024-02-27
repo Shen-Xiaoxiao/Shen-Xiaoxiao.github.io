@@ -221,7 +221,7 @@ input.button {
 	width: 820px;
 	position: relative;
 	height: 103px;
-	background: #FFFFFF no-repeat center top;
+	background: none;
 	padding: 0;	
 	color: #FFF;	
 }
@@ -361,11 +361,11 @@ input.button {
 	text-align: left;
 	margin: 7px 4px 8px 0; padding: 0;
 	text-decoration: none;		
-	background: url(dots.jpg) repeat-x left top;
+	background: none;
 }
 #sidebar ul.sidemenu li {
 	list-style: none;
-	background: url(dots.jpg) repeat-x left bottom;
+	background: none;
 	padding: 4px 0 4px 5px;
 	margin: 0 2px;	
 	color: 	#2F4F4F;	
