@@ -54,8 +54,8 @@ h3 {
 
 /* images 
 img {
-	background: #FAFAFA;
-   border: 0px solid #E5E5E5;
+	background: none;
+   border: 0px solid #FAFAFA;
 	padding: 5px;
 }
 img.float-right {
