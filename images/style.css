@@ -147,7 +147,7 @@ tr.row-b {
 form {
 	margin:10px; padding: 0 5px;
 	border: 1px solid #f2f2f2; 
-	background-color: #708090; 	
+	background-color: #FFFFFF; 	
 }
 label {
 	display:block;
@@ -221,7 +221,7 @@ input.button {
 	width: 820px;
 	position: relative;
 	height: 103px;
-	background: #CCC url(header.jpg) no-repeat center top;
+	background: #FFFFFF no-repeat center top;
 	padding: 0;	
 	color: #FFF;	
 }
