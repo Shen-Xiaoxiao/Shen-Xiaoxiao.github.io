@@ -310,8 +310,8 @@ input.button {
 	font: Bold 140% 'Trebuchet MS', Tahoma, Sans-serif;
 	color: #88ac0b; 
 	padding: 5px 0 5px 25px; 	
-	border-bottom: 1px solid #EFF0F1;
-	background: #FFF url(square-green.png) no-repeat 3px 50%;	
+	border-bottom: 1px solid #FFFFFF;
+	background: none;	
 	text-transform: none;
 }
 #main h2 a {
