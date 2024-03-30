@@ -343,46 +343,7 @@ input.button {
 	padding-left: 20px; margin: 0 10px 0 5px;
 }
 
-/* Sidebar */	
-#sidebar {
-	float: right;
-	width: 20.5%;
-	padding: 0; margin: 0;	
-	color: 	#2F4F4F;	
-}	
-#sidebar h3 {
-	margin-top: 10px;
-	padding: 5px 5px; 
-	font: bold 1.4em 'Trebuchet MS', Tahoma, Sans-serif;
-	color: 	#2F4F4F;	
-}
-#sidebar ul.sidemenu {
-	list-style: none;
-	text-align: left;
-	margin: 7px 4px 8px 0; padding: 0;
-	text-decoration: none;		
-	background: none;
-}
-#sidebar ul.sidemenu li {
-	list-style: none;
-	background: none;
-	padding: 4px 0 4px 5px;
-	margin: 0 2px;	
-	color: 	#2F4F4F;	
-}
-* html body #sidebar ul.sidemenu li {
-	height: 1%;
-}
-#sidebar ul.sidemenu li a {
-	text-decoration: none;	
-	background-image: none;	
-	color: 	#2F4F4F;			
-}
-#sidebar ul.sidemenu li a:hover {	
-	color: 	#2F4F4F;	
-}
-#sidebar ul.sidemenu ul { margin: 0 0 0 5px; padding: 0; }
-#sidebar ul.sidemenu ul li { background: none; }
+
 
 
 /* Footer */	
