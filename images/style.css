@@ -348,6 +348,7 @@ input.button {
 
 /* Footer */	
 #footer {
+	float: center;
 	color: #2F4F4F;
 	background: none;
 	clear: both;
