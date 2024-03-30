@@ -309,7 +309,7 @@ input.button {
 	margin-top: 10px;
 	font: Bold 140% 'Trebuchet MS', Tahoma, Sans-serif;
 	color: #88ac0b; 
-	padding: 5px 0 5px 5px; 	
+	padding: 0 0 0 0; 	
 	border-bottom: 1px solid #FFFFFF;
 	background: none;	
 	text-transform: none;
