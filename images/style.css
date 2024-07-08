@@ -352,9 +352,9 @@ input.button {
 	color: #2F4F4F;
 	background: none;
 	clear: both;
-	width: 820px;
+	width: 1000px;
 	height: 65px;
-	text-align: center;	
+	text-align: right;	
 	font-size: 70%;	
 }
 #footer a { 
