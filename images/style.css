@@ -308,7 +308,7 @@ input.button {
 #main h2 {
 	margin-top: 10px;
 	font: Bold 140% 'Trebuchet MS', Tahoma, Sans-serif;
-	color: #88ac0b; 
+	color: #003399; 
 	padding: 0 0 0 0; 	
 	border-bottom: 1px solid #FFFFFF;
 	background: none;	
@@ -316,7 +316,7 @@ input.button {
 }
 #main h2 a {
 	background: none;
-	color: #88ac0b;
+	color: #003399;
 	text-decoration: none;
 }
 
